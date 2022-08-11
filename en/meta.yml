@@ -1,0 +1,9 @@
+title: Create a colour palette
+hero_image: images/banner.png
+description: Create a colour palette for the SenseHAT's LED matrix
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Create a colour palette
